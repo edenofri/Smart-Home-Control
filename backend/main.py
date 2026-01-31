@@ -1,5 +1,4 @@
-
-!pip -q install tuya-connector-python
+# !pip -q install tuya-connector-python
 from tuya_connector import TuyaOpenAPI
 from google.colab import userdata
 import json
